@@ -13,6 +13,8 @@ symbol_count = {
      "C": 6,
      "D": 8,
 }
+def check_winnings(columns,lines,bet):
+    pass
 
 def get_slot_machine_spin(rows,cols,symbols):
     all_symbols = []
