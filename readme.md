@@ -1,4 +1,4 @@
-Slot Machine
+Slot Machine command line game
 
 This program is a python implementation of a slot machine game that was created as part of a tutorial on YouTube by techwith Tim. The tutorial aims to teach python programming through building a fun and interactive project. You can find the original tutorial here: https://www.youtube.com/watch?v=th4OBktqK1I&t=2365s&ab_channel=TechWithTim
 
